@@ -1,0 +1,13 @@
+D:\MySensorTag\MySensorTag\bin\Debug\MySensorTag.exe.config
+D:\MySensorTag\MySensorTag\bin\Debug\MySensorTag.exe
+D:\MySensorTag\MySensorTag\bin\Debug\MySensorTag.pdb
+D:\MySensorTag\MySensorTag\obj\Debug\MySensorTag.csprojResolveAssemblyReference.cache
+D:\MySensorTag\MySensorTag\obj\Debug\MainWindow.baml
+D:\MySensorTag\MySensorTag\obj\Debug\MainWindow.g.cs
+D:\MySensorTag\MySensorTag\obj\Debug\App.g.cs
+D:\MySensorTag\MySensorTag\obj\Debug\MySensorTag_MarkupCompile.cache
+D:\MySensorTag\MySensorTag\obj\Debug\MySensorTag.g.resources
+D:\MySensorTag\MySensorTag\obj\Debug\MySensorTag.Properties.Resources.resources
+D:\MySensorTag\MySensorTag\obj\Debug\MySensorTag.csproj.GenerateResource.Cache
+D:\MySensorTag\MySensorTag\obj\Debug\MySensorTag.exe
+D:\MySensorTag\MySensorTag\obj\Debug\MySensorTag.pdb
