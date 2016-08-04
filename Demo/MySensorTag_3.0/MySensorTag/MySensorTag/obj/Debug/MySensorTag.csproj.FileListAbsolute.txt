@@ -1,0 +1,50 @@
+D:\MySensorTag\MySensorTag\bin\Debug\MySensorTag.exe.config
+D:\MySensorTag\MySensorTag\bin\Debug\MySensorTag.exe
+D:\MySensorTag\MySensorTag\bin\Debug\MySensorTag.pdb
+D:\MySensorTag\MySensorTag\bin\Debug\LiveCharts.dll
+D:\MySensorTag\MySensorTag\bin\Debug\LiveCharts.Wpf.dll
+D:\MySensorTag\MySensorTag\obj\Debug\MySensorTag.csprojResolveAssemblyReference.cache
+D:\MySensorTag\MySensorTag\obj\Debug\MainWindow.baml
+D:\MySensorTag\MySensorTag\obj\Debug\MainWindow.g.cs
+D:\MySensorTag\MySensorTag\obj\Debug\App.g.cs
+D:\MySensorTag\MySensorTag\obj\Debug\MySensorTag_MarkupCompile.cache
+D:\MySensorTag\MySensorTag\obj\Debug\MySensorTag.g.resources
+D:\MySensorTag\MySensorTag\obj\Debug\MySensorTag.Properties.Resources.resources
+D:\MySensorTag\MySensorTag\obj\Debug\MySensorTag.csproj.GenerateResource.Cache
+D:\MySensorTag\MySensorTag\obj\Debug\MySensorTag.exe
+D:\MySensorTag\MySensorTag\obj\Debug\MySensorTag.pdb
+D:\run\MySensorTag\MySensorTag\bin\Debug\MySensorTag.exe.config
+D:\run\MySensorTag\MySensorTag\bin\Debug\MySensorTag.exe
+D:\run\MySensorTag\MySensorTag\bin\Debug\MySensorTag.pdb
+D:\run\MySensorTag\MySensorTag\bin\Debug\LiveCharts.dll
+D:\run\MySensorTag\MySensorTag\bin\Debug\LiveCharts.Wpf.dll
+D:\run\MySensorTag\MySensorTag\bin\Debug\System.Runtime.WindowsRuntime.dll
+D:\run\MySensorTag\MySensorTag\bin\Debug\System.Runtime.WindowsRuntime.xml
+D:\run\MySensorTag\MySensorTag\obj\Debug\MainWindow.baml
+D:\run\MySensorTag\MySensorTag\obj\Debug\MainWindow.g.cs
+D:\run\MySensorTag\MySensorTag\obj\Debug\App.g.cs
+D:\run\MySensorTag\MySensorTag\obj\Debug\MySensorTag_MarkupCompile.cache
+D:\run\MySensorTag\MySensorTag\obj\Debug\MySensorTag.g.resources
+D:\run\MySensorTag\MySensorTag\obj\Debug\MySensorTag.Properties.Resources.resources
+D:\run\MySensorTag\MySensorTag\obj\Debug\MySensorTag.csproj.GenerateResource.Cache
+D:\run\MySensorTag\MySensorTag\obj\Debug\MySensorTag.exe
+D:\run\MySensorTag\MySensorTag\obj\Debug\MySensorTag.pdb
+D:\run\MySensorTag\MySensorTag\obj\Debug\MySensorTag.csprojResolveAssemblyReference.cache
+C:\Users\VO TRAN CHI\Desktop\Capstone Project\Demo\MySensorTag_3.0\MySensorTag\MySensorTag\obj\Debug\MySensorTag.csprojResolveAssemblyReference.cache
+C:\Users\VO TRAN CHI\Desktop\Capstone Project\Demo\MySensorTag_3.0\MySensorTag\MySensorTag\obj\Debug\MainWindow.baml
+C:\Users\VO TRAN CHI\Desktop\Capstone Project\Demo\MySensorTag_3.0\MySensorTag\MySensorTag\obj\Debug\MainWindow.g.cs
+C:\Users\VO TRAN CHI\Desktop\Capstone Project\Demo\MySensorTag_3.0\MySensorTag\MySensorTag\obj\Debug\App.g.cs
+C:\Users\VO TRAN CHI\Desktop\Capstone Project\Demo\MySensorTag_3.0\MySensorTag\MySensorTag\obj\Debug\MySensorTag_MarkupCompile.cache
+C:\Users\VO TRAN CHI\Desktop\Capstone Project\Demo\MySensorTag_3.0\MySensorTag\MySensorTag\obj\Debug\MySensorTag.g.resources
+C:\Users\VO TRAN CHI\Desktop\Capstone Project\Demo\MySensorTag_3.0\MySensorTag\MySensorTag\obj\Debug\MySensorTag.Properties.Resources.resources
+C:\Users\VO TRAN CHI\Desktop\Capstone Project\Demo\MySensorTag_3.0\MySensorTag\MySensorTag\obj\Debug\MySensorTag.csproj.GenerateResource.Cache
+C:\Users\VO TRAN CHI\Desktop\Capstone Project\Demo\MySensorTag_3.0\MySensorTag\MySensorTag\bin\Debug\MySensorTag.exe.config
+C:\Users\VO TRAN CHI\Desktop\Capstone Project\Demo\MySensorTag_3.0\MySensorTag\MySensorTag\bin\Debug\MySensorTag.exe
+C:\Users\VO TRAN CHI\Desktop\Capstone Project\Demo\MySensorTag_3.0\MySensorTag\MySensorTag\bin\Debug\MySensorTag.pdb
+C:\Users\VO TRAN CHI\Desktop\Capstone Project\Demo\MySensorTag_3.0\MySensorTag\MySensorTag\bin\Debug\LiveCharts.dll
+C:\Users\VO TRAN CHI\Desktop\Capstone Project\Demo\MySensorTag_3.0\MySensorTag\MySensorTag\bin\Debug\LiveCharts.Wpf.dll
+C:\Users\VO TRAN CHI\Desktop\Capstone Project\Demo\MySensorTag_3.0\MySensorTag\MySensorTag\bin\Debug\System.Runtime.WindowsRuntime.dll
+C:\Users\VO TRAN CHI\Desktop\Capstone Project\Demo\MySensorTag_3.0\MySensorTag\MySensorTag\bin\Debug\Windows.winmd
+C:\Users\VO TRAN CHI\Desktop\Capstone Project\Demo\MySensorTag_3.0\MySensorTag\MySensorTag\bin\Debug\System.Runtime.WindowsRuntime.xml
+C:\Users\VO TRAN CHI\Desktop\Capstone Project\Demo\MySensorTag_3.0\MySensorTag\MySensorTag\obj\Debug\MySensorTag.exe
+C:\Users\VO TRAN CHI\Desktop\Capstone Project\Demo\MySensorTag_3.0\MySensorTag\MySensorTag\obj\Debug\MySensorTag.pdb
